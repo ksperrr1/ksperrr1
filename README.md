@@ -1,4 +1,4 @@
 - 👋 Hi there! I’m "K sperrr"
-- 👀 I’m interested in games, programming, watching films/anime, cooking and playing table tennis
+- 👀 I’m interested in games, programming, watching films/anime also i like to cooking and playing table tennis
 - 🌱 I’m currently learning C++, JS, NodeJS, Python
 - 📫 How to reach me "mail:your.ksperrr@gmail.com"; "discord:k_sperrr"
